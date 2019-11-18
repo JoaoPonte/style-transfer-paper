@@ -25,6 +25,6 @@ If your result is interesting, please contact me! I will be pleased to be in con
 
 ## Citation
 To reference this code or the paper, please use the following citation:  
-Souza, J. P. P., Avansi, M. C. K., Belila, A. M. P., Vidal, A. C., Style Transfer applied to carbonate reservoir upscaling: a study case from Brazilian carbonate rocks (coquinas).  
+Souza, J. P. P., Avansi, M. C. K., Belila, A. M. P., Vidal, A. C., Style Transfer applied to carbonate reservoir downscaling: a study case from Brazilian carbonate rocks (coquinas).  
 
 This is not the final version of the reference, I will wait until the paper is submitted to update it ;)
